@@ -1,3 +1,5 @@
+> **This app has moved.** Rulz Training Captioner is now part of [RulZ AI Tools Suite](https://github.com/speedyrulz/RulZ-AI-Tools-Suite): its source is in [apps/Rulz-Training-Captioner](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/tree/main/apps/Rulz-Training-Captioner), its downloads are on the [Releases page](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/releases) and its guide is in the [wiki](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/wiki/Training-Captioner). This repository is archived and no longer updated.
+
 # Rulz Training Captioner
 
 Windows desktop app for captioning image datasets with a local vision LLM.
